@@ -6,6 +6,8 @@
 - Perilla, Aira A.
 - Tolentino, Gian Carl C.
 
+### Block Diagram Used
+<img width="572" alt="general block diagram used" src="https://github.com/Bien21-00590/CSE_StepResponse_MEXE_3202_G1_2024/assets/157965990/28e7c13a-40f5-4342-ac1c-4d17f7eaa828">
 
 ### Graphs of Transfer Functions
 1. Second Order Underdamped System
