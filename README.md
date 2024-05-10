@@ -62,7 +62,8 @@
 <img width="415" alt="Plant with Time Delay Step Response" src="https://github.com/Bien21-00590/CSE_StepResponse_MEXE_3202_ShpericalG1_2024/assets/157965990/bb53b7f5-2e5a-4eba-ba80-521b970e3c4f">
 
 8. Nonlinear System Approximation
-<img width="421" alt="Plant with Time Delay Sine Wave" src="https://github.com/Bien21-00590/CSE_StepResponse_MEXE_3202_ShpericalG1_2024/assets/157965990/5e7b2c2d-0cc4-420b-8d0c-814b62f80db3">
+<img width="415" alt="Plant with Time Delay Step Response" src="https://github.com/Bien21-00590/CSE_StepResponse_MEXE_3202_G1_2024/assets/157965990/f803241b-c4be-4340-a0da-d040153a5a25">
+
 
 
 ### Simulink Graphs of Transfer Functions 
