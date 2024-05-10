@@ -1,1 +1,1 @@
-# CSE_StepResponse_MEXE_3202_ShpericalG1_2024
+# CSE_StepResponse_MEXE_3202_G1_2024
