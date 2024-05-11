@@ -1,4 +1,4 @@
-# CSE_StepResponse_MEXE_3202_G1_2024
+# CSE_StepResponse_MEXE_3202_G2_2024
 
 ### Members:
 - Almonte, Ray Ivan C. 
